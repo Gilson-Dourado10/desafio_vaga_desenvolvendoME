@@ -35,6 +35,7 @@ group :development do
   gem 'listen', '~> 3.3'
   gem 'spring'
   gem 'simple_form'
+  gem 'net-smtp'
 end
 
 group :test do
