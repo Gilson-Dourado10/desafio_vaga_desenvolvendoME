@@ -36,7 +36,7 @@ group :development do
   gem 'spring'
   gem 'simple_form'
   gem 'net-smtp'
-  gem 'simple_form'
+
 
 end
 
